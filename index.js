@@ -24,4 +24,5 @@ function iLoveTheBeatles(number){
     beatleLove.push("I love the Beatles!");
     count += number;
   } while(count < 15);
+  return beatleLove;
 }
